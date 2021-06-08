@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Claa_one.c">
+    <ClCompile Include="C_6_8.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
