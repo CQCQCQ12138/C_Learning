@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include "add.h"
 //int main() {//判断一个数是否为奇数的第一种方法
 //	int num;							
 //	printf("Please enter a number ");
@@ -35,7 +36,11 @@
 //	}
 // return 0;
 //}
-int main() {//
-	
+
+int main() {//测试自定义函数
+	int x = 10;
+	int y = 20;
+	int sum = add(x, y);
+		printf("%d",sum);
 		return 0;
 }
